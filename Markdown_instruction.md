@@ -12,6 +12,9 @@
 
 ## Working with pictures
 
+Чтобы вставить изображение в текст достаточно написать следующее:
+![It's MC21-300](MC21-300.jpg)
+
 ## Links
 
 ## Working with tables
